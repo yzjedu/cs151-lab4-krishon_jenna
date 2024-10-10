@@ -1,7 +1,7 @@
 # Reflection Document
 
 * Drive Full Name  : Jenna Cuti
-* Partner Full Name : Krishon 
+* Partner Full Name : Krishon Pinkins
 * Student ID:  1902925
 
 This lab presented several challenges that required careful consideration of both the logic and structure of the program. One of the first problems was ensuring that the program handled each package correctly, especially when calculating additional charges for extra data usage. Another challenge was managing the conditional logic for applying the coupon discount, which only applied under certain conditions for the Green package. To address these challenges, I made sure to break down the problem into smaller, manageable parts, ensuring that the calculations for each package and the data usage were handled separately before integrating the coupon logic. Testing various edge cases, like invalid package names and extreme data usage, helped ensure the program functioned as expected in all scenarios.
