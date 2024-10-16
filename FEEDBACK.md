@@ -51,7 +51,7 @@
 - We have not discussed lists yet. Your code uses list, but your algorithm does not 
 - 
 - 
-### Lab Grade: M
+### Lab Grade: E
 
 #### Participation Grade: S
  - If participation grade is unsatisfactory check the `NO` in the documents sections
